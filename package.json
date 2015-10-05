@@ -1,0 +1,26 @@
+{
+  "name": "destiny-infusion",
+  "version": "0.0.1",
+  "description": "NodeJS script for infusion calculation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryangr0/destiny-infusion.git"
+  },
+  "keywords": [
+    "destiny",
+    "node",
+    "nodejs",
+    "infusion",
+    "calculator"
+  ],
+  "author": "Ryan Grippeling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryangr0/destiny-infusion/issues"
+  },
+  "homepage": "https://github.com/Ryangr0/destiny-infusion#readme"
+}
