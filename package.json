@@ -1,6 +1,6 @@
 {
   "name": "destiny-infusion",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NodeJS script for infusion calculation.",
   "main": "index.js",
   "scripts": {
